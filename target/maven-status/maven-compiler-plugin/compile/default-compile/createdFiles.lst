@@ -1,0 +1,6 @@
+com\yimeicloud\study\shiro_web\controller\ManagerController.class
+com\yimeicloud\study\shiro_web\controller\LoginController.class
+com\yimeicloud\study\shiro_web\AppConfiguration.class
+com\yimeicloud\study\shiro_web\controller\AuthorizeController.class
+com\yimeicloud\study\shiro_web\App.class
+com\yimeicloud\study\shiro_web\controller\ArticleController.class
